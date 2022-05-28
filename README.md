@@ -22,3 +22,11 @@ This project was done entirely via Google Sheets, and it consists of 4 key pages
 ### Closing Remarks
 
 While there are many flaws in the BCS model for strength of schedule, i.e. not all 7-5 teams are created equal, it is a good attempt to create an unbiased, assumption free ranking. This was my first large project revolving around sports statistics, and it displays a strong grasp on using Google Sheets and linking multiple pages, while also attempting to help visualize the data being found.
+
+### Sheet Links
+#### Due to the nature of linked Google Sheets, it is easier to link all of the sheets/folders, as opposed to downloading them and uploading to Github.
+
+ - **Main Page**: https://docs.google.com/spreadsheets/d/1TFNaKZUs05yHqpAbEhycWAupor434tHVXlxLYXdw2tA/edit?usp=sharing 
+ - **NCAA Records Sheet**: https://docs.google.com/spreadsheets/d/1SBqRWZOO0jMbO_fimdFPSfS-m-AnYyFu9UG5i0bsveE/edit?usp=sharing
+ - **Conference Record Books Folder**: https://drive.google.com/drive/folders/1u8vZ66ASIM2YRjIcESbWp8GTkZlWHhGi?usp=sharing
+ - **Raw Rankings**: https://docs.google.com/spreadsheets/d/1e8PC9TLlhpTDVcv6PSAbb3va5SM1NvumBbNYcunqLe4/edit?usp=sharing
